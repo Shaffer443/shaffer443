@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaffer443&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaffer443&show_icons=true&theme=transparent)
 
 <!--
 **Shaffer443/shaffer443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
