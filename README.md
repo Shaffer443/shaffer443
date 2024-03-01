@@ -26,9 +26,7 @@ Após ingressar na graduação em <b>Análise e Desenvolvimento de Sistemas</b>,
 
 Concluí vários cursos em paralelo à graduação que me trouxeram extensão de conhecimento de meus horizontes e grandes melhorias no entendimento desde linguagens para scripts específicos, à programação em geral.
 
-Aqui sempre vai estar em evolução. Na programação entendi que tudo está em constante movimento e dinamismo. Melhorias constantes dentro das minhas limitações de conhecimento ou talvez interesse em melhorar algo. Já que gosto de quase tudo, e tenho interesse sempre em evoluir, tudo pode me chamar atenção e gerar um sentimento de que posso melhorar algum repositório, atualizar, ou novos repositórios com  novos aprendizados e ideias.
-
-Não tenho preferência por um segmento na programação, nem no desenvolvimento sistemas. 
+Aqui sempre vai estar em evolução. Na programação entendi que tudo está em constante movimento e dinamismo. Melhorias constantes dentro das minhas limitações de conhecimento ou talvez interesse em melhorar algo. Já que gosto de quase tudo, e tenho interesse sempre em evoluir, tudo pode me chamar atenção e gerar um sentimento de que posso melhorar algum repositório, atualizar, ou novos repositórios com  novos aprendizados e ideias. 
 
 Qualquer coisa, pode me achar aqui:
 
