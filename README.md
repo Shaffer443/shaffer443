@@ -12,21 +12,13 @@
 
 ### Olá! 👋
 
-Iniciado no universo da programação e tecnologia no meio pro final da pandemia, tendo aprendido, desenvolvendo e me inserido no mercado de desenvolvimento e tecnologia.
+Graduado em <b>Análise e Desenvolvimento de Software</b> em 2023, estou em uma jornada constante de aprendizado e aprimoramento.
 
-Nem sempre as coisas são tão simples de inserir ou acontecem do jeito que gostaríamos. 
+Ao longo da minha formação, ampliei meus horizontes e desenvolvi um novo mindset, explorando desde linguagens de programação distintas e lógicas diversas de chegar a um determinado resultado, dentre as mais diferentes e possíveis áreas de atuação no mercado tecnológico. 
 
-Seja por falta de hard skill ou  fatores como idade fora do padrão para se iniciar em um novo mercado e segmento, pode vir a atrapalhar a minha primeira inserção neste mercado e consequentemente recolocação.
+Esse processo de evolução foi enriquecido por diversos cursos complementares, que expandiram meu conhecimento, desde scripts específicos até o desenvolvimento de soluções mais complexas.
 
-Enquanto a primeira oportunidade não me é agraciada, vou trabalhando no desenvolvimento de sistemas, scripts e ideias para projetos pessoais.
-
-Quebrando a cabeça tentando aprender e melhorar minha compreensão e entendimento, através de leitura, vídeos e cursos. Tanto em Front quanto Back End, banco de dados, integração front e back e tudo que me venha chamar atenção e interesse na programação.
-
-Após ingressar na graduação em <b>Análise e Desenvolvimento de Sistemas</b>, onde ampliou meus horizontes e mudou bastante meu mindset. Desde linguagens e compreensão para construção e lógica de programação, há áreas para possíveis atuações dentro do mercado tecnológico. 
-
-Concluí vários cursos em paralelo à graduação que me trouxeram extensão de conhecimento de meus horizontes e grandes melhorias no entendimento desde linguagens para scripts específicos, à programação em geral.
-
-Aqui sempre vai estar em evolução. Na programação entendi que tudo está em constante movimento e dinamismo. Melhorias constantes dentro das minhas limitações de conhecimento ou talvez interesse em melhorar algo. Já que gosto de quase tudo, e tenho interesse sempre em evoluir, tudo pode me chamar atenção e gerar um sentimento de que posso melhorar algum repositório, atualizar, ou novos repositórios com  novos aprendizados e ideias. 
+Meu aprendizado não para por aqui. Entendi que, na programação, tudo está em constante movimento. Sempre há espaço para melhorias, seja dentro das minhas limitações ou por simples curiosidade e desejo de evoluir. Tenho interesse em quase tudo, e esse entusiasmo me leva a buscar aprimorar projetos, atualizar repositórios e explorar novas ideias com base nos meus aprendizados.
 
 Qualquer coisa, pode me achar aqui:
 
