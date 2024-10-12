@@ -24,9 +24,13 @@ Qualquer coisa, pode me achar aqui:
 
 ![image](https://github.com/Shaffer443/shaffer443/assets/82620417/0f880c5a-89ad-4988-b378-1a7f9de1e140)
 
+https://linktr.ee/rafaelgouveia </br></br></br></br>
 
-https://linktr.ee/rafaelgouveia </br></br></br></br></br>
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRviKm86FHeRh-b-0tejlApFtjSRzS-LYqG6Q&s)
 
+[![wakatime](https://wakatime.com/badge/user/fd54641a-ef2a-4360-befe-38c729f714c5/project/824d2548-25cf-4900-b76e-6d447905858b.svg)](https://wakatime.com/badge/user/fd54641a-ef2a-4360-befe-38c729f714c5/project/824d2548-25cf-4900-b76e-6d447905858b)
+
+https://wakatime.com/@Shaffer443 </br></br></br></br>
 
 ![image](https://github.com/Shaffer443/shaffer443/assets/82620417/07cd9a8e-2bd5-480a-b154-23816b088c15)
 
@@ -37,24 +41,22 @@ https://linktr.ee/rafaelgouveia </br></br></br></br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaffer443)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<!--
 ### Alguns Repositórios Publicos:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaffer443&repo=TratamentoDeDados_LayBackBots)](https://github.com/anuraghazra/github-readme-stats)  
-[![wakatime](https://wakatime.com/badge/user/fd54641a-ef2a-4360-befe-38c729f714c5/project/824d2548-25cf-4900-b76e-6d447905858b.svg)](https://wakatime.com/badge/user/fd54641a-ef2a-4360-befe-38c729f714c5/project/824d2548-25cf-4900-b76e-6d447905858b)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaffer443&repo=EstruturaDeDados)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaffer443&repo=DadosEstatisticosFutebolPunter)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaffer443&repo=Transformacoes_Numericas_Uteis)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaffer443&repo=API_TempoeData )](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaffer443&repo=ListaDeTarefas )](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-
+<!--
 ##### Testando Funcionalidade:
-<!--[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)-->
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shaffer443)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 
